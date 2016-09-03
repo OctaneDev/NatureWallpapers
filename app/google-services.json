@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "398675407268",
+    "firebase_url": "https://tip-calculator-595d4.firebaseio.com",
+    "project_id": "tip-calculator-595d4",
+    "storage_bucket": "tip-calculator-595d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398675407268:android:c67f56466048c26c",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.tipcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398675407268-q601cn1irr3mlh1r9rrdlr9iqfbvj514.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtv_UGnhR86RLZSuGJB-ApIgl4p4mreI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398675407268:android:85f9943d345f7436",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.naturewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398675407268-q601cn1irr3mlh1r9rrdlr9iqfbvj514.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtv_UGnhR86RLZSuGJB-ApIgl4p4mreI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

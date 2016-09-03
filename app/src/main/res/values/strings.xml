@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nature Wallpapers</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_contribute">Contribute</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5164171001589422/5381023392</string>
+    <string name="wallpaper_preview">Wallpaper Preview</string>
+    <string name="action_share">Share</string>
+    <string name="action_rate">Rate this app</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="action_contribute">Contribute</string>
+    <string name="action_exit">Exit</string>
+    <string name="faq">FAQ:</string>
+    <string name="qa">
+        "Q: Why do all the pictures look so blurry?\n"
+        "A: To save space and loading times, we made low resolution previews of every image. They may appear blurry in the app,"
+        "but they should look fine after being set as your wallpaper. If they still look bad as your wallpaper, please send feedback"
+        "by clicking the email icon.\n\n"
+
+        "Q: Why are there so many ads?\n"
+        "A: We are a small business with very minimal income. The ads give us some money, but very little. We get paid extra for ad"
+        "clicks.\n\n\n\n"
+
+
+
+        "Have a question we didn't answer? Click the email button and send us your question and we'll reply with an answer, as well"
+        "as add it here."
+    </string>
+    <string name="contribute">Start</string>
+    <string name="details">
+        "Google won't allow donations, but that doesn't mean you can't help!"
+    </string>
+</resources>

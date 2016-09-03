@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="biz.bigtooth.naturewallpapers.HelpActivity"
+    tools:showIn="@layout/activity_help">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/faq_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:text="@string/faq" />
+
+        <TextView
+            android:id="@+id/faq_body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/qa"
+            android:layout_below="@+id/faq_title"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="@dimen/text_margin"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</android.support.v4.widget.NestedScrollView>
